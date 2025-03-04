@@ -1,6 +1,6 @@
-# Django and React Boilerplate with JWT Authentication
+# Django and React Initial Code with JWT Authentication
 
-This project is a boilerplate for setting up a web application using Django for the backend with JWT (JSON Web Token) authentication, and React for the frontend.
+This project is a initial code for setting up a web application using Django for the backend with JWT (JSON Web Token) authentication, and React for the frontend.
 
 ## Features
 
